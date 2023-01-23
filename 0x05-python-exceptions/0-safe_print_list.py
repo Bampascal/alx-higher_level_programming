@@ -1,6 +1,10 @@
+<<<<<<< HEAD
 #!/usr/bin/python3
 
 def safe_print_list(my_list=[], x=0):
+=======
+afe_print_list(my_list=[], x=0):
+>>>>>>> 18193bc768a2d8fee462836064a5ebf14126718c
     """Print x elememts of a list.
     Args:
         my_list (list): The list to print elements from.
