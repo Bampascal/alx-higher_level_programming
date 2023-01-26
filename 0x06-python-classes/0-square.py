@@ -1,7 +1,8 @@
-quare.py by Ehoneah Obed
-"""Defines a square """
+#!/usr/bin/python3
+
+"""Define a class Square."""
 
 
 class Square:
-    """Does nothing"""
+    """Represent a square."""
     pass
