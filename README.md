@@ -1,0 +1,1 @@
+ng_is_object
